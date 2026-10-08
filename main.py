@@ -22,6 +22,8 @@ NODE_IMAGE_FILES = {
     "C": "node_C.png",
 }
 
+# Test comment for Jira
+
 # --- CARGA IMÁGENES con fallbacks ---
 # Mapa -> escalamos al tamaño de ventana
 if Path(MAP_FILE).exists():
