@@ -44,7 +44,7 @@ sprite_sheet = pygame.image.load(SPRITE_FILE).convert_alpha()
 sheet_w, sheet_h = sprite_sheet.get_width(), sprite_sheet.get_height()
 
 # --- EXTRAER LOS 4 FRAMES ESTÁTICOS DEL SPRITE ---
-
+#another message
 cols = 4
 rows = 1
 
