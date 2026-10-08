@@ -3,6 +3,12 @@ import sys
 import math
 from pathlib import Path
 
+# Add comment for Jira but without Jira key
+
+# Add comment for Jira with Jira key
+
+# Add comment without Jira key
+
 pygame.init()
 
 # --- CONFIG ---
