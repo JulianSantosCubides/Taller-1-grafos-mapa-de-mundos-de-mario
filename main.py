@@ -5,6 +5,8 @@ from pathlib import Path
 
 # Add comment for Jira but without Jira key
 
+# Add comment for Jira with Jira key
+
 pygame.init()
 
 # --- CONFIG ---
